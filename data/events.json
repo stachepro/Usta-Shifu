@@ -1,0 +1,1 @@
+[null,{"name":"deneme1","temp":"{merhaba}","event-type":"2","actions":[{"channel":"4","varName":"","message":"**Merhaba ${mentionedUser} Naber? :smile:**","storage":"0","varName2":"","name":"Send Message"}]}]
